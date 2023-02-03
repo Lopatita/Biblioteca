@@ -50,3 +50,18 @@ Entitati:
           - ID_carte
           
 ![Model conceptual](https://github.com/Lopatita/Biblioteca/blob/main/Model%20%20conceptual.png)
+
+Steps:
+- git clone (descarcare repository)
+- git status
+- pentru a importa baza de date in pgadmin:
+  - open pgadmin
+  - enter your admin password
+  - open your databases tab
+  - create a database
+  - right click on your database
+  - click import and  select the file "DATABASE.sql"
+- pentru a modifica repository (git add)
+- git commit -m "your message goes here"
+- git push -f
+  
