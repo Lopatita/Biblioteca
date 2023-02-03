@@ -1,7 +1,7 @@
 # Structura unei biblioteci_Lopatita Iosif-Otniel_Examen Baze de date spatiale
 ![uml diagram](https://github.com/Lopatita/Biblioteca/blob/main/proiect%20biblioteca.drawio.png)
 
-#enunt
+# Enunt
 Realizarea unei baze de date pentru administrarea unei biblioteci cu scopul de a stoca si administra carti, articole, edituri si autorii acestora, impreuna cu descrierea fizica si cuvantu cheie si locatia prin care se poate identifica o carte si un articol.
 
 Entitati:
@@ -49,4 +49,4 @@ Entitati:
           - Cuvant
           - ID_carte
           
-    ![uml diagram](https://github.com/Lopatita/Biblioteca/blob/main/Model%20%20conceptual.png)
+![Model conceptual](https://github.com/Lopatita/Biblioteca/blob/main/Model%20%20conceptual.png)
