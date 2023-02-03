@@ -49,4 +49,4 @@ Entitati:
           - Cuvant
           - ID_carte
           
-    ![uml diagram](https://github.com/Lopatita/Biblioteca/blob/main/Model%20conceptual.png)
+    ![uml diagram](https://github.com/Lopatita/Biblioteca/blob/main/Model%20%20conceptual.png)
